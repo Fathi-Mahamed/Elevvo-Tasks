@@ -9,7 +9,7 @@ The dataset used is the **Student Performance Factors** dataset from Kaggle.
 ---
 
 ## 📂 Dataset
-**Source:** [Kaggle - Student Performance Factors](https://www.kaggle.com)  
+**Source:** [Kaggle - Student Performance Factors](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors)  
 **Rows:** ~6,600  
 **Columns:** 20  
 **Target Variable:** `Exam_Score`  
