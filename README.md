@@ -57,11 +57,11 @@ The dataset used is the **Student Performance Factors** dataset from Kaggle.
 ## 📊 Results
 | Model                              | R²     | MAE   | RMSE  |
 |------------------------------------|--------|-------|-------|
-| Hours_Studied only                 | 0.xxx  | x.xx  | x.xx  |
-| Extended numeric                   | 0.xxx  | x.xx  | x.xx  |
-| Full features (encoded) **[BEST]** | 0.xxx  | x.xx  | x.xx  |
-| Polynomial (deg 2)                 | 0.xxx  | x.xx  | x.xx  |
-| Polynomial (deg 3)                 | 0.xxx  | x.xx  | x.xx  |
+| Hours_Studied only                 | 0.231987    | 2.447569    | 3.294833    |
+| Extended numeric                   | 0.641639    | 1.265856    | 2.250657    |
+| Full features (encoded) **[BEST]** | 0.769928    | 0.449950    | 1.803353    |
+| Polynomial (deg 2)                 | 0.232760    | 2.444780    | 3.293173    |
+| Polynomial (deg 3)                 | 0.232842    | 2.444512    | 3.292998    |
 
 📌 **Best Model:** Full features (encoded) — highest R² and lowest RMSE.
 
